@@ -154,7 +154,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRANSFERS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHUTTLE SERVICES</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-c\" data-toolbar=\"-mbrBtnMove\">TRANSFERS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header6-b\" data-toolbar=\"-mbrBtnMove\">SHUTTLE SERVICES</a>"
               },
               {
                 "active": false,
@@ -169,7 +169,7 @@
                 "showText": true,
                 "text": "We Transfer is a 100% black owned company which specialises in airport transfers to and from all airports in Johannesburg including OR Tambo, Lanseria and Grand Central, for visitors, corporate companies and also door-to-door.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#form1-3\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#form1-3\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
               },
               {
                 "active": true,
@@ -185,7 +185,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SERVICES</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#header3-c\" data-toolbar=\"-mbrBtnMove\">SERVICES</a>"
               }
             ],
             "fullScreen": true,
