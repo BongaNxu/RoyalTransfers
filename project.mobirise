@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"mailto:tk@royaltransfers.co.za\">BOOK NOW</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"mailto:tk@royaltransfers.co.za\">BOOK NOW</a></li>"
         },
         {
           "_tags": [
@@ -286,7 +286,7 @@
           },
           "title": "OUR TRANSFER SERVICE INCLUDES:",
           "text": "➢- &nbsp;Airport to hotels and guest houses\n➢\t<br>- &nbsp;Airport to houses\n➢\t<br>- &nbsp;Airport to game reserves \n➢\t<br>- &nbsp;Airport to meetings/conferences&nbsp;<br><br>Just tell us where you want to go and we will take you there!&nbsp;<br><br><b>Book now for a free no obligation fare.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"mailto:tk@royaltransfers.co.za\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"mailto:tk@royaltransfers.co.za\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_styles": {
@@ -316,10 +316,10 @@
           "_anchor": "content1-d",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<ul><li>(ORT) OR Tambo International Airport,\r</li><li>(HLA) Lanseria International Airport\r</li><li>(KMIA) Kruger Mpumalanga International Airport\r</li><li>(GCJ) Grand Central Airport\r</li><li>(PTG) Polokwane International Airport\r</li><li>Johannesburg and Pretoria\r</li><li>North West (Sun City and Madikwe Game Reserve)\r</li><li>Pilanesberg Game Reserve\r•\tGhost Mountain in Pongola (KZN)\r</li><li>uMkhuze Game Reserve (KZN)\r</li><li>Mapungubwe National Park (Limpopo)\r</li><li>Waterberg Game Reserve (Limpopo)\r</li><li>Kruger National Park (Mpumalanga)\r</li><li>Soweto tour (Nelson Mandela House in Vilakazi Street and Hector Pietersen Apartheid Museum)\r</li><li>Soweto towers (Bungee Jumping)\r</li></ul>"
+          "text": "<ul><li>(ORT) OR Tambo International Airport,\n</li><li>(HLA) Lanseria International Airport\n</li><li>(KMIA) Kruger Mpumalanga International Airport\n</li><li>(GCJ) Grand Central Airport\n</li><li>(PTG) Polokwane International Airport\n</li><li>Johannesburg and Pretoria\n</li><li>North West (Sun City and Madikwe Game Reserve)\n</li><li>Pilanesberg Game Reserve\n•\tGhost Mountain in Pongola (KZN)\n</li><li>uMkhuze Game Reserve (KZN)\n</li><li>Mapungubwe National Park (Limpopo)\n</li><li>Waterberg Game Reserve (Limpopo)\n</li><li>Kruger National Park (Mpumalanga)\n</li><li>Soweto tour (Nelson Mandela House in Vilakazi Street and Hector Pietersen Apartheid Museum)\n</li><li>Soweto towers (Bungee Jumping)\n</li></ul>"
         },
         {
           "_styles": {
