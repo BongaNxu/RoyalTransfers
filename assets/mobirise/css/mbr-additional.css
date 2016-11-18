@@ -474,6 +474,24 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#header3-5 .mbr-section-title,
+#header3-5 .mbr-section-subtitle {
+  text-align: center;
+}
+#header6-b .mbr-section-title {
+  color: #28262b;
+}
+#header6-b .mbr-section-text {
+  color: #565656;
+}
+#header3-c .mbr-section-title,
+#header3-c .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-8 .mbr-section-title,
+#msg-box8-8 p {
+  color: #fff;
+}
 #form1-3 .form-control-label {
   color: #232323;
 }
